@@ -107,5 +107,5 @@ What it is. Why it exists. What it proves.
 <br>
 
 <div align="center">
-<img width="800" height="512" alt="bryan-heemskerk-eldenringfinal" src="https://github.com/user-attachments/assets/5980adf7-108a-4fb2-b7b3-e448d8115011" />
+<img width="800" height="489" alt="9dbd9e807e4d498b454d120c82086f43" src="https://github.com/user-attachments/assets/eff811e3-7aed-4b2a-b0d1-7c7337db529e" />
 </div>
