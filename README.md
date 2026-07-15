@@ -93,6 +93,8 @@ What it is. Why it exists. What it proves.
 <img src="https://raw.githubusercontent.com/koaci0/koaci0/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
+<br>
+
 <div align="center">
-<img width="640" height="480" alt="534a36c2ea59975da136036a69b18b6e" src="https://github.com/user-attachments/assets/778edf9c-2236-4d87-8429-297e8de3f81b" />
+<img width="883" height="510" alt="caleb-barefoot-master-sword-hexel-animated2" src="https://github.com/user-attachments/assets/9d33b2d1-17a0-43de-a5f8-a7632b630d60" />
 </div>
