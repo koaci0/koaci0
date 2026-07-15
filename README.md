@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/aea10840-5381-42e5-8583-2fc91bbf5da2" />
+<img width="1500" height="500" alt="banner" src="https://github.com/user-attachments/assets/aea10840-5381-42e5-8583-2fc91bbf5da2" />
 
 <div align="center">
 
@@ -47,4 +47,10 @@ One sentence. What it does. Why it exists.
 [Twitter/X](#) · [Website](#) · [LinkedIn](#)
 
 </sub>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/koaci0/koaci0/output/dist/github-snake-dark.svg" alt="Snake animation" />
 </div>
