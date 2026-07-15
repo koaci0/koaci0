@@ -29,8 +29,10 @@ Fewer projects. Built deeper.
 
 ### Right Now
 
+<br>
+
 <div align="center">
-<img width="500" height="333" alt="4320" src="https://github.com/user-attachments/assets/245b6b41-a443-4ade-8d7d-4c761169c9f5" />
+<img width="1192" height="960" alt="ubo8fj9hvesc1" src="https://github.com/user-attachments/assets/72768862-4146-4f1b-90ca-40c1d6803ef8" />
 </div>
 
 <br>
