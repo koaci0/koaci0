@@ -107,5 +107,5 @@ A timeless treatise on achieving victory through preparation, discipline, adapta
 <br>
 
 <div align="center">
-<img width="800" height="489" alt="9dbd9e807e4d498b454d120c82086f43" src="https://github.com/user-attachments/assets/eff811e3-7aed-4b2a-b0d1-7c7337db529e" />
+<img width="689" height="550" alt="ironsteve-mostro" src="https://github.com/user-attachments/assets/166cdd19-6a63-4c35-8a42-ee92199346dd" />
 </div>
