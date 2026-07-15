@@ -72,7 +72,7 @@
 
 <br>
 
-### 𝚃𝚑𝚎 𝚠𝚘𝚛𝚔
+### 𝚃𝚘𝚙 𝙱𝚘𝚘𝚔𝚜
 
 **[48 Laws of power](https://z-library.sk/book/qvBmzWzEj1/the-48-laws-of-power.html)**
 What it is. Why it exists. What it proves.
