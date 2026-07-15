@@ -1,8 +1,8 @@
-<img width="1500" height="500" alt="banner" src="https://github.com/user-attachments/assets/aea10840-5381-42e5-8583-2fc91bbf5da2" />
+![Banner](./banner.png)
 
 <div align="center">
 
-# 𝐙𝐚𝐢𝐧
+# [Your Name]
 
 **Building in silence. Shipping in public.**
 
@@ -47,4 +47,10 @@ One sentence. What it does. Why it exists.
 [Twitter/X](#) · [Website](#) · [LinkedIn](#)
 
 </sub>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/koaci0/koaci0/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
