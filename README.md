@@ -29,8 +29,16 @@ Fewer projects. Built deeper.
 
 ### Right Now
 
+<div align="center">
+<img width="500" height="333" alt="4320" src="https://github.com/user-attachments/assets/245b6b41-a443-4ade-8d7d-4c761169c9f5" />
+</div>
+
+<br>
+
 `Building` → Emephyst
+
 `Studying` → Just Stacking Skills & Hobbies
+
 `Thinking about` → My Second Brain Lucious
 
 <br>
