@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# [Zain]
+# [𝐙𝐚𝐢𝐧]
 
 **Building in silence. Shipping in public.**
 
