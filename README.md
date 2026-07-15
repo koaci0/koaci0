@@ -27,7 +27,7 @@ Fewer projects. Built deeper.
 
 <br>
 
-### Right Now
+### 𝚁𝚒𝚐𝚑𝚝 𝚗𝚘𝚠
 
 <br>
 
@@ -49,7 +49,7 @@ Fewer projects. Built deeper.
 
 <br>
 
-### Tools of the Craft
+### 𝚃𝚘𝚘𝚕𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚌𝚛𝚊𝚏𝚝
 
 <br>
 
@@ -71,7 +71,7 @@ Fewer projects. Built deeper.
 
 <br>
 
-### The Work
+### 𝚃𝚑𝚎 𝚠𝚘𝚛𝚔
 
 **[Project Name](https://github.com/username/repo)**
 What it is. Why it exists. What it proves.
