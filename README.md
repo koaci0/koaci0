@@ -42,7 +42,7 @@
 
 `Studying` → Just Stacking Skills & Hobbies
 
-`Thinking about` → My Second Brain Lucious
+`Thinking about` → Philosophy
 
 <br>
 
