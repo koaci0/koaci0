@@ -84,3 +84,6 @@ What it is. Why it exists. What it proves.
 <div align="center">
 <img src="https://raw.githubusercontent.com/koaci0/koaci0/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
+
+<img width="1280" height="853" alt="WhatsApp Image 2026-07-15 at 18 40 15" src="https://github.com/user-attachments/assets/cad7f2e1-62fd-479f-bc12-018a2e7876a6" />
+
