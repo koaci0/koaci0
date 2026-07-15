@@ -41,6 +41,14 @@ Fewer projects. Built deeper.
 
 ### Tools of the Craft
 
+<br>
+
+<div align="center">
+<img width="689" height="512" alt="5c6271f957ef35a0ac38bffce4677741" src="https://github.com/user-attachments/assets/2cf2eb0f-1185-4c9c-8c2c-f65769fedb09" />
+</div>
+
+<br>
+
 <div align="center">
 
 `Blender` `After Effects` `Obsidian Graph` `AI`
@@ -85,5 +93,6 @@ What it is. Why it exists. What it proves.
 <img src="https://raw.githubusercontent.com/koaci0/koaci0/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<img width="1280" height="853" alt="WhatsApp Image 2026-07-15 at 18 40 15" src="https://github.com/user-attachments/assets/cad7f2e1-62fd-479f-bc12-018a2e7876a6" />
-
+<div align="center">
+<img width="640" height="480" alt="534a36c2ea59975da136036a69b18b6e" src="https://github.com/user-attachments/assets/778edf9c-2236-4d87-8429-297e8de3f81b" />
+</div>
