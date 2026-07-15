@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# ZAIN
+# 𝚉𝚊𝚒𝚗
 
 *"Jack of all trades master of none, is often better than a master of one"*
 
