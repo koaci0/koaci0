@@ -75,10 +75,10 @@
 ### 𝚃𝚘𝚙 𝙱𝚘𝚘𝚔𝚜 📖
 
 **[48 Laws of power](https://z-library.sk/book/qvBmzWzEj1/the-48-laws-of-power.html)**
-What it is. Why it exists. What it proves.
+A practical guide to understanding, acquiring, and protecting power by mastering human nature, influence, and strategy.
 
 **[Art of war](https://z-library.sk/book/QRMbqw2rjV/art-of-war.html)**
-What it is. Why it exists. What it proves.
+A timeless treatise on achieving victory through preparation, discipline, adaptability, and winning with the least possible conflict.
 
 <br>
 
@@ -92,7 +92,7 @@ What it is. Why it exists. What it proves.
 
 <sub>
 
-[Twitter/X](#) · [Website](#) · [LinkedIn](#)
+[Instagram](#) · [Github](#) · [Youtube](#) · [Pinterest](#)
 
 </sub>
 
