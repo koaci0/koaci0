@@ -74,10 +74,10 @@
 
 ### 𝚃𝚑𝚎 𝚠𝚘𝚛𝚔
 
-**[Project Name](https://github.com/username/repo)**
+**[48 Laws of power](https://z-library.sk/book/qvBmzWzEj1/the-48-laws-of-power.html)**
 What it is. Why it exists. What it proves.
 
-**[Project Name](https://github.com/username/repo)**
+**[Art of war](https://z-library.sk/book/QRMbqw2rjV/art-of-war.html)**
 What it is. Why it exists. What it proves.
 
 <br>
