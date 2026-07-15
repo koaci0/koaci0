@@ -19,7 +19,7 @@
 **Most people optimize for busy.**
 **I optimize for leverage.**
 
-Fewer projects. Built deeper. Shipped louder.
+Fewer projects. Built deeper.
 
 <br>
 
@@ -29,9 +29,9 @@ Fewer projects. Built deeper. Shipped louder.
 
 ### Right Now
 
-`Building` → [project name]
-`Studying` → [skill / domain]
-`Thinking about` → [the idea currently living rent-free in your head]
+`Building` → Emephyst
+`Studying` → Just Stacking Skills & Hobbies
+`Thinking about` → My Second Brain Lucious
 
 <br>
 
@@ -43,7 +43,7 @@ Fewer projects. Built deeper. Shipped louder.
 
 <div align="center">
 
-`JavaScript` `Python` `React` `Node.js`
+`Blender` `After Effects` `Obsidian Graph` `AI`
 
 </div>
 
