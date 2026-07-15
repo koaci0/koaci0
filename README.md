@@ -6,7 +6,7 @@
 
 # ZAIN
 
-*writing code like it's a masterwork, not a job*
+*"Jack of all trades master of none, is often better than a master of one"*
 
 </div>
 
