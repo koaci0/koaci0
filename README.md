@@ -1,16 +1,50 @@
-## Hi there 👋
+![Banner](./banner.png)
 
-<!--
-**koaci0/koaci0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# [Your Name]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Building in silence. Shipping in public.**
+
+</div>
+
+<br>
+
+I write code the way I think — with intention, not noise.
+No fluff. No filler. Just the work.
+
+<br>
+
+### Currently
+
+- Building → [project name]
+- Learning → [skill / technology]
+- Obsessed with → [craft, systems, mastery — whatever drives you]
+
+<br>
+
+### Stack
+
+`JavaScript` `Python` `React` `Node.js`
+
+<br>
+
+### Selected Work
+
+**[Project Name](https://github.com/username/repo)**
+One sentence. What it does. Why it exists.
+
+**[Project Name](https://github.com/username/repo)**
+One sentence. What it does. Why it exists.
+
+<br>
+
+---
+
+<div align="center">
+<sub>
+
+[Twitter/X](#) · [Website](#) · [LinkedIn](#)
+
+</sub>
+</div>
