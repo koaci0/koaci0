@@ -32,7 +32,7 @@ Fewer projects. Built deeper.
 <br>
 
 <div align="center">
-<img width="1192" height="960" alt="ubo8fj9hvesc1" src="https://github.com/user-attachments/assets/72768862-4146-4f1b-90ca-40c1d6803ef8" />
+<img width="689" height="512" alt="ubo8fj9hvesc1" src="https://github.com/user-attachments/assets/72768862-4146-4f1b-90ca-40c1d6803ef8" />
 </div>
 
 <br>
@@ -106,5 +106,5 @@ What it is. Why it exists. What it proves.
 <br>
 
 <div align="center">
-<img width="883" height="510" alt="caleb-barefoot-master-sword-hexel-animated2" src="https://github.com/user-attachments/assets/9d33b2d1-17a0-43de-a5f8-a7632b630d60" />
+<img width="689" height="512" alt="caleb-barefoot-master-sword-hexel-animated2" src="https://github.com/user-attachments/assets/9d33b2d1-17a0-43de-a5f8-a7632b630d60" />
 </div>
