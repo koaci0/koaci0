@@ -107,5 +107,5 @@ What it is. Why it exists. What it proves.
 <br>
 
 <div align="center">
-<img width="689" height="512" alt="caleb-barefoot-master-sword-hexel-animated2" src="https://github.com/user-attachments/assets/9d33b2d1-17a0-43de-a5f8-a7632b630d60" />
+<img width="800" height="512" alt="bryan-heemskerk-eldenringfinal" src="https://github.com/user-attachments/assets/5980adf7-108a-4fb2-b7b3-e448d8115011" />
 </div>
