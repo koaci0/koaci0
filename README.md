@@ -1,52 +1,82 @@
-<img width="1500" height="500" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/4be7da5c-803a-41bc-836a-8954775f01a9" />
+<img width="1500" height="500" alt="banner" src="https://github.com/user-attachments/assets/4be7da5c-803a-41bc-836a-8954775f01a9" />
+
+<br>
 
 <div align="center">
 
-# Zain
+# ZAIN
 
-**Building in silence. Shipping in public.**
+*writing code like it's a masterwork, not a job*
 
 </div>
 
 <br>
 
-I write code the way I think — with intention, not noise.
-No fluff. No filler. Just the work.
+---
 
 <br>
 
-### Currently
+**Most people optimize for busy.**
+**I optimize for leverage.**
 
-- Building → [project name]
-- Learning → [skill / technology]
-- Obsessed with → [craft, systems, mastery — whatever drives you]
-
-<br>
-
-### Stack
-
-`JavaScript` `Python` `React` `Node.js`
-
-<br>
-
-### Selected Work
-
-**[Project Name](https://github.com/username/repo)**
-One sentence. What it does. Why it exists.
-
-**[Project Name](https://github.com/username/repo)**
-One sentence. What it does. Why it exists.
+Fewer projects. Built deeper. Shipped louder.
 
 <br>
 
 ---
 
+<br>
+
+### Right Now
+
+`Building` → [project name]
+`Studying` → [skill / domain]
+`Thinking about` → [the idea currently living rent-free in your head]
+
+<br>
+
+---
+
+<br>
+
+### Tools of the Craft
+
 <div align="center">
+
+`JavaScript` `Python` `React` `Node.js`
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+### The Work
+
+**[Project Name](https://github.com/username/repo)**
+What it is. Why it exists. What it proves.
+
+**[Project Name](https://github.com/username/repo)**
+What it is. Why it exists. What it proves.
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+*"Depth over noise. Signal over scale."*
+
 <sub>
 
 [Twitter/X](#) · [Website](#) · [LinkedIn](#)
 
 </sub>
+
 </div>
 
 <br>
