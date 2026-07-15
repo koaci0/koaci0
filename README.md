@@ -48,16 +48,3 @@ One sentence. What it does. Why it exists.
 
 </sub>
 </div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/koaci0/koaci0/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-</sub>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/koaci0/koaci0/output/dist/github-snake-dark.svg" alt="Snake animation" />
-</div>
