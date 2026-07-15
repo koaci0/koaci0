@@ -16,10 +16,11 @@
 
 <br>
 
-**Most people optimize for busy.**
-**I optimize for leverage.**
+**𝙸 𝚊𝚖 𝚗𝚘𝚝 𝚊𝚏𝚛𝚊𝚒𝚍 𝚘𝚏 𝚊𝚗 𝚊𝚛𝚖𝚢 𝚘𝚏 𝚕𝚒𝚘𝚗𝚜 𝚕𝚎𝚍 𝚋𝚢 𝚊 𝚜𝚑𝚎𝚎𝚙;**
 
-Fewer projects. Built deeper.
+**𝙸 𝚊𝚖 𝚊𝚏𝚛𝚊𝚒𝚍 𝚘𝚏 𝚊𝚗 𝚊𝚛𝚖𝚢 𝚘𝚏 𝚜𝚑𝚎𝚎𝚙 𝚕𝚎𝚍 𝚋𝚢 𝚊 𝚕𝚒𝚘𝚗.**
+
+𝙰𝚕𝚎𝚡𝚊𝚗𝚍𝚎𝚛 𝚝𝚑𝚎 𝚐𝚛𝚎𝚊𝚝.
 
 <br>
 
