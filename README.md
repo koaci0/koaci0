@@ -24,10 +24,6 @@
 
 <br>
 
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="50%" />
-</div>
-
 ---
 
 <br>
@@ -116,3 +112,7 @@ A vivid biography tracing Alexander's rise from Macedonian prince to one of hist
 </div>
 
 <br>
+
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="50%" />
+</div>
