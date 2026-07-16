@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# ZAIN
+# 𝚉𝚊𝚒𝚗
 
 *writing code like it's a masterwork, not a job*
 
@@ -31,7 +31,7 @@ Fewer projects. Built deeper. Shipped louder.
 
 <br>
 
-### Right Now
+### 𝚁𝚒𝚐𝚑𝚝 𝚗𝚘𝚠
 
 <br>
 
@@ -54,7 +54,7 @@ Fewer projects. Built deeper. Shipped louder.
 
 <br>
 
-### Tools of the Craft
+### 𝚃𝚘𝚘𝚕𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚌𝚛𝚊𝚏𝚝
 
 <br>
 
@@ -72,7 +72,7 @@ Fewer projects. Built deeper. Shipped louder.
 
 <br>
 
-### The Work
+### 𝚃𝚘𝚙 𝙱𝚘𝚘𝚔𝚜
 
 **[Project Name](https://github.com/username/repo)**
 What it is. Why it exists. What it proves.
