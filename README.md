@@ -67,7 +67,7 @@
 
 `Blender` `Photoshop` `Kling` `Higgsfield`
 <br>
-`Obsidian` `Claude` `Claude Code` `Cursor`
+`Obsidian` `Claude` `Claude Code`
 
 </div>
 
