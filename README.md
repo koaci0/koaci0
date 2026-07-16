@@ -112,7 +112,7 @@ What it is. Why it exists. What it proves.
 <br>
 
 <div align="center">
-<img width="670" height="550" alt="ironsteve-mostro" src="https://github.com/user-attachments/assets/15e1973b-b822-4090-9bb8-d2fa9ba451af" />
+<img width="660" height="540" alt="ironsteve-mostro" src="https://github.com/user-attachments/assets/15e1973b-b822-4090-9bb8-d2fa9ba451af" />
 </div>
 
 <br>
