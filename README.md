@@ -6,7 +6,7 @@
 
 # 𝚉𝚊𝚒𝚗
 
-*"𝚓𝚊𝚌𝚔 𝚘𝚏 𝚊𝚕𝚕 𝚝𝚛𝚊𝚍𝚎𝚜 𝚖𝚊𝚜𝚝𝚎𝚛 𝚘𝚏 𝚗𝚘𝚗𝚎, 𝚋𝚞𝚝 𝚘𝚏𝚝𝚎𝚗 𝚋𝚎𝚝𝚝𝚎𝚛 𝚝𝚑𝚊𝚗 𝚊 𝚖𝚊𝚜𝚝𝚎𝚛 𝚘𝚏 𝚘𝚗𝚎"*
+"𝚓𝚊𝚌𝚔 𝚘𝚏 𝚊𝚕𝚕 𝚝𝚛𝚊𝚍𝚎𝚜 𝚖𝚊𝚜𝚝𝚎𝚛 𝚘𝚏 𝚗𝚘𝚗𝚎, 𝚋𝚞𝚝 𝚘𝚏𝚝𝚎𝚗 𝚋𝚎𝚝𝚝𝚎𝚛 𝚝𝚑𝚊𝚗 𝚊 𝚖𝚊𝚜𝚝𝚎𝚛 𝚘𝚏 𝚘𝚗𝚎"
 
 </div>
 
@@ -97,7 +97,7 @@ What it is. Why it exists. What it proves.
 
 <sub>
 
-[Twitter/X](#) · [Website](#) · [LinkedIn](#)
+[Pinterest](#) · [Instagram](#) · [Github](#) · [Youtube](#) · [Telegram](#)
 
 </sub>
 
