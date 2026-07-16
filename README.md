@@ -45,7 +45,7 @@
 
 `Building` → Emephyst
 <br>
-`Studying` → Stacking Hobbies & skills
+`Studying` → Stacking hobbies & skills
 <br>
 `Thinking about` → Philosophy
 
