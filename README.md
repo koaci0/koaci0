@@ -77,7 +77,7 @@
 
 <br>
 
-### 𝚃𝚘𝚙 𝙱𝚘𝚘𝚔𝚜
+### 𝚃𝚘𝚙 𝙱𝚘𝚘𝚔𝚜 🕮
 
 **[The 48 Laws of Power](https://z-library.sk/book/1RQEJEdrRx/the-48-laws-of-power.html)**
 Master the dynamics of influence by using human nature to gain and protect power while avoiding unnecessary conflict.
