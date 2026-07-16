@@ -79,10 +79,10 @@
 
 ### 𝚃𝚘𝚙 𝙱𝚘𝚘𝚔𝚜
 
-**[Project Name](https://github.com/username/repo)**
+**[The 48 Laws of Power](https://z-library.sk/book/1RQEJEdrRx/the-48-laws-of-power.html)**
 What it is. Why it exists. What it proves.
 
-**[Project Name](https://github.com/username/repo)**
+**[Alexander the Great](https://z-library.sk/book/eZjd1e7ovW/alexander-the-great.html)**
 What it is. Why it exists. What it proves.
 
 <br>
