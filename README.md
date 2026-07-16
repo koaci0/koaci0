@@ -43,11 +43,11 @@
 </div>
 <br>
 
-`Building` → [project name]
+`Building` → Emephyst
 <br>
-`Studying` → [skill / domain]
+`Studying` → Stacking Hobbies & skills
 <br>
-`Thinking about` → [the idea currently living rent-free in your head]
+`Thinking about` → Philosophy
 
 <br>
 
@@ -62,6 +62,8 @@
 <div align="center">
 
 <img width="689" height="512" alt="5c6271f957ef35a0ac38bffce4677741" src="https://github.com/user-attachments/assets/93ae996e-e8a3-4f18-987a-259abd8a09e6" />
+
+<br>
 
 `JavaScript` `Python` `React` `Node.js`
 
