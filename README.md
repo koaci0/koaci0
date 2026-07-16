@@ -33,6 +33,8 @@ Fewer projects. Built deeper. Shipped louder.
 
 ### Right Now
 
+<br>
+
 <div align="center">
   
 <img width="689" height="512" alt="ubo8fj9hvesc1" src="https://github.com/user-attachments/assets/02574da0-3907-4f9c-838b-b8a6533e3b1f" />
@@ -53,6 +55,8 @@ Fewer projects. Built deeper. Shipped louder.
 <br>
 
 ### Tools of the Craft
+
+<br>
 
 <div align="center">
 
@@ -103,7 +107,7 @@ What it is. Why it exists. What it proves.
 <br>
 
 <div align="center">
-<img width="670" height="580" alt="ironsteve-mostro" src="https://github.com/user-attachments/assets/15e1973b-b822-4090-9bb8-d2fa9ba451af" />
+<img width="670" height="550" alt="ironsteve-mostro" src="https://github.com/user-attachments/assets/15e1973b-b822-4090-9bb8-d2fa9ba451af" />
 </div>
 
 <br>
