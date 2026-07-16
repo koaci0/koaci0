@@ -23,6 +23,10 @@ Fewer projects. Built deeper. Shipped louder.
 
 <br>
 
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="50%" />
+</div>
+
 ---
 
 <br>
@@ -99,11 +103,7 @@ What it is. Why it exists. What it proves.
 <br>
 
 <div align="center">
-<img width="700" height="580" alt="ironsteve-mostro" src="https://github.com/user-attachments/assets/15e1973b-b822-4090-9bb8-d2fa9ba451af" />
+<img width="670" height="580" alt="ironsteve-mostro" src="https://github.com/user-attachments/assets/15e1973b-b822-4090-9bb8-d2fa9ba451af" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="50%" />
-</div>
