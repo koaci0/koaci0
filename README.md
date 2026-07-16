@@ -93,7 +93,7 @@ What it is. Why it exists. What it proves.
 
 <div align="center">
 
-*"Depth over noise. Signal over scale."*
+*"Depth over noise. Choose Peace."*
 
 <sub>
 
