@@ -1,114 +1,17 @@
-<img width="1500" height="500" alt="Haytham zain" src="https://github.com/user-attachments/assets/fbf779e5-6d1d-408d-aaa2-644eb96b6402" />
+<h1 align="center">Hi 👋, I'm Your Name</h1>
 
-<br>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=koaci0">
+    <img src="https://komarev.com/ghpvc/?username=koaci0&label=Profile%20views&color=00FFFF&style=flat-square" alt="koaci0's profile views" />
+  </a>
+</p>
 
+## 📊 GitHub Stats & Trophies
 <div align="center">
-
-# 𝚉𝚊𝚒𝚗
-
-*"Jack of all trades master of none, is often better than a master of one"*
-
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
-<br>
 
----
+## 🛠️ Languages & Tools
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-<br>
-
-**𝙸 𝚊𝚖 𝚗𝚘𝚝 𝚊𝚏𝚛𝚊𝚒𝚍 𝚘𝚏 𝚊𝚗 𝚊𝚛𝚖𝚢 𝚘𝚏 𝚕𝚒𝚘𝚗𝚜 𝚕𝚎𝚍 𝚋𝚢 𝚊 𝚜𝚑𝚎𝚎𝚙;**
-
-**𝙸 𝚊𝚖 𝚊𝚏𝚛𝚊𝚒𝚍 𝚘𝚏 𝚊𝚗 𝚊𝚛𝚖𝚢 𝚘𝚏 𝚜𝚑𝚎𝚎𝚙 𝚕𝚎𝚍 𝚋𝚢 𝚊 𝚕𝚒𝚘𝚗.**
-
-𝙰𝚕𝚎𝚡𝚊𝚗𝚍𝚎𝚛 𝚝𝚑𝚎 𝚐𝚛𝚎𝚊𝚝.
-
-<br>
-
----
-
-<br>
-
-### 𝚁𝚒𝚐𝚑𝚝 𝚗𝚘𝚠
-
-<br>
-
-<div align="center">
-<img width="689" height="512" alt="ubo8fj9hvesc1" src="https://github.com/user-attachments/assets/72768862-4146-4f1b-90ca-40c1d6803ef8" />
-</div>
-
-<br>
-
-`Building` → Emephyst
-
-`Studying` → Just Stacking Skills & Hobbies
-
-`Thinking about` → Philosophy
-
-<br>
-
----
-
-<br>
-
-### 𝚃𝚘𝚘𝚕𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚌𝚛𝚊𝚏𝚝
-
-<br>
-
-<div align="center">
-<img width="689" height="512" alt="5c6271f957ef35a0ac38bffce4677741" src="https://github.com/user-attachments/assets/2cf2eb0f-1185-4c9c-8c2c-f65769fedb09" />
-</div>
-
-<br>
-
-<div align="center">
-
-`Blender` `After Effects` `Obsidian` `Claude`
-<br>
-<br>
-`Claude Code` `Photoshop` `Higsfield` `Kling`
-
-</div>
-
-<br>
-
----
-
-<br>
-
-### 𝚃𝚘𝚙 𝙱𝚘𝚘𝚔𝚜 📖
-
-**[48 Laws of power](https://z-library.sk/book/qvBmzWzEj1/the-48-laws-of-power.html)**
-A practical guide to understanding, acquiring, and protecting power by mastering human nature, influence, and strategy.
-
-**[Art of war](https://z-library.sk/book/QRMbqw2rjV/art-of-war.html)**
-A timeless treatise on achieving victory through preparation, discipline, adaptability, and winning with the least possible conflict.
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-*"Depth over noise. Signal over scale."*
-
-<sub>
-
-[Instagram](#) · [Github](#) · [Youtube](#) · [Pinterest](#) · [Telegram](#)
-
-</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/koaci0/koaci0/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
-
-<div align="center">
-<img width="689" height="550" alt="ironsteve-mostro" src="https://github.com/user-attachments/assets/166cdd19-6a63-4c35-8a42-ee92199346dd" />
-</div>
