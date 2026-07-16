@@ -80,10 +80,10 @@
 ### 𝚃𝚘𝚙 𝙱𝚘𝚘𝚔𝚜
 
 **[The 48 Laws of Power](https://z-library.sk/book/1RQEJEdrRx/the-48-laws-of-power.html)**
-What it is. Why it exists. What it proves.
+Master the dynamics of influence by using human nature to gain and protect power while avoiding unnecessary conflict.
 
 **[Alexander the Great](https://z-library.sk/book/eZjd1e7ovW/alexander-the-great.html)**
-What it is. Why it exists. What it proves.
+A vivid biography tracing Alexander's rise from Macedonian prince to one of history's greatest conquerors.
 
 <br>
 
