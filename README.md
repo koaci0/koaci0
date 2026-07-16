@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="banner" src="https://github.com/user-attachments/assets/4be7da5c-803a-41bc-836a-8954775f01a9" />
+<img width="1500" height="500" alt="Haytham zain" src="https://github.com/user-attachments/assets/2afa9774-1802-459a-abbc-7a82847cfde8" />
 
 <br>
 
@@ -30,7 +30,9 @@ Fewer projects. Built deeper. Shipped louder.
 ### Right Now
 
 `Building` → [project name]
+<br>
 `Studying` → [skill / domain]
+<br>
 `Thinking about` → [the idea currently living rent-free in your head]
 
 <br>
@@ -88,5 +90,5 @@ What it is. Why it exists. What it proves.
 <br>
 
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="profile-3d-city.svg" alt="3D City" width="50%" />
 </div>
