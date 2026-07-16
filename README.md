@@ -29,6 +29,13 @@ Fewer projects. Built deeper. Shipped louder.
 
 ### Right Now
 
+<div align="center">
+  
+<img width="689" height="512" alt="ubo8fj9hvesc1" src="https://github.com/user-attachments/assets/02574da0-3907-4f9c-838b-b8a6533e3b1f" />
+
+</div>
+<br>
+
 `Building` → [project name]
 <br>
 `Studying` → [skill / domain]
@@ -44,6 +51,8 @@ Fewer projects. Built deeper. Shipped louder.
 ### Tools of the Craft
 
 <div align="center">
+
+<img width="689" height="512" alt="5c6271f957ef35a0ac38bffce4677741" src="https://github.com/user-attachments/assets/93ae996e-e8a3-4f18-987a-259abd8a09e6" />
 
 `JavaScript` `Python` `React` `Node.js`
 
@@ -85,6 +94,12 @@ What it is. Why it exists. What it proves.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/koaci0/koaci0/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+<div align="center">
+<img width="700" height="580" alt="ironsteve-mostro" src="https://github.com/user-attachments/assets/15e1973b-b822-4090-9bb8-d2fa9ba451af" />
 </div>
 
 <br>
