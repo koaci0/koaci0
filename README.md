@@ -62,7 +62,10 @@
 
 <div align="center">
 
-`Blender` `After Effects` `Obsidian Graph` `AI`
+`Blender` `After Effects` `Obsidian` `Claude`
+<br>
+<br>
+`Claude Code` `Photoshop` `Higsfield` `Kling`
 
 </div>
 
@@ -92,7 +95,7 @@ A timeless treatise on achieving victory through preparation, discipline, adapta
 
 <sub>
 
-[Instagram](#) · [Github](#) · [Youtube](#) · [Pinterest](#)
+[Instagram](#) · [Github](#) · [Youtube](#) · [Pinterest](#) · [Telegram](#)
 
 </sub>
 
