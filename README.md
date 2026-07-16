@@ -1,17 +1,92 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<img width="1500" height="500" alt="banner" src="https://github.com/user-attachments/assets/4be7da5c-803a-41bc-836a-8954775f01a9" />
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=koaci0">
-    <img src="https://komarev.com/ghpvc/?username=koaci0&label=Profile%20views&color=00FFFF&style=flat-square" alt="koaci0's profile views" />
-  </a>
-</p>
+<br>
 
-## 📊 GitHub Stats & Trophies
+<div align="center">
+
+# ZAIN
+
+*writing code like it's a masterwork, not a job*
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+**Most people optimize for busy.**
+**I optimize for leverage.**
+
+Fewer projects. Built deeper. Shipped louder.
+
+<br>
+
+---
+
+<br>
+
+### Right Now
+
+`Building` → [project name]
+`Studying` → [skill / domain]
+`Thinking about` → [the idea currently living rent-free in your head]
+
+<br>
+
+---
+
+<br>
+
+### Tools of the Craft
+
+<div align="center">
+
+`JavaScript` `Python` `React` `Node.js`
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+### The Work
+
+**[Project Name](https://github.com/username/repo)**
+What it is. Why it exists. What it proves.
+
+**[Project Name](https://github.com/username/repo)**
+What it is. Why it exists. What it proves.
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+*"Depth over noise. Signal over scale."*
+
+<sub>
+
+[Twitter/X](#) · [Website](#) · [LinkedIn](#)
+
+</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/koaci0/koaci0/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br>
+
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
-
-
-## 🛠️ Languages & Tools
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
