@@ -111,13 +111,6 @@ A vivid biography tracing Alexander's rise from Macedonian prince to one of hist
 
 <br>
 
-<div align="center">
-<img width="660" height="540" alt="ironsteve-mostro" src="https://github.com/user-attachments/assets/15e1973b-b822-4090-9bb8-d2fa9ba451af" />
-</div>
-
-<br>
-
-<br>
 
 <img width="1500" height="500" alt="Haytham zain (1)" src="https://github.com/user-attachments/assets/f8deb38a-e10e-49fd-886e-243b0de08dc0" />
 
