@@ -109,6 +109,10 @@ A vivid biography tracing Alexander's rise from Macedonian prince to one of hist
 <img src="https://raw.githubusercontent.com/koaci0/koaci0/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
+
+<br>
+> A courtier named Damocles envies a king's luxurious life until he is made to sit on the throne beneath a sword hanging by a single horsehair, teaching him that great power and wealth are always accompanied by constant danger and responsibility.
+
 <br>
 
 
