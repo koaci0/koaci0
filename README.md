@@ -37,8 +37,6 @@
 <br>
 
 <div align="center">
-  
-<img width="689" height="512" alt="ubo8fj9hvesc1" src="https://github.com/user-attachments/assets/02574da0-3907-4f9c-838b-b8a6533e3b1f" />
 
 </div>
 <br>
@@ -60,8 +58,6 @@
 <br>
 
 <div align="center">
-
-<img width="689" height="512" alt="5c6271f957ef35a0ac38bffce4677741" src="https://github.com/user-attachments/assets/93ae996e-e8a3-4f18-987a-259abd8a09e6" />
 
 <br>
 
