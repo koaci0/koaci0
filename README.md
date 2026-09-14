@@ -41,7 +41,7 @@
 </div>
 <br>
 
-<img width="1000" height="500" alt="Screenshot 2026-09-14 120408" src="https://github.com/user-attachments/assets/5f112836-6a7c-4b44-a95d-990a3ce81e23" />
+<img width="362" height="770" alt="Screenshot 2026-09-14 121602" src="https://github.com/user-attachments/assets/8ce6f44c-427c-430d-bb7f-2bf66c2683cc" />
 
 <br>
 
