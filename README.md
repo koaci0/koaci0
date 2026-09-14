@@ -68,7 +68,7 @@
 
 ---
 
-Grind Coins ⛀ = `1`
+Grind Coins ⛀ = `2`
 
 ---
 
