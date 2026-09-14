@@ -40,7 +40,7 @@
 
 <br>
 
-<img width="1500" height="500" alt="Haytham zain" src="https://github.com/user-attachments/assets/b9e24825-c30a-4970-a596-a91820efeb84" />
+<img width="1500" height="500" alt="Haytham zain" src="https://github.com/user-attachments/assets/c031a019-ba1c-4edf-a695-c93f7d701efd" />
 
 </div>
 <br>
