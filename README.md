@@ -92,6 +92,15 @@ Grind Coins ⛀ = `2`
 <br>
 
 ---
+
+<br>
+
+### Reward chart
+
+<br>
+
+---
+
 ### 𝚃𝚘𝚘𝚕𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚌𝚛𝚊𝚏𝚝
 
 <br>
