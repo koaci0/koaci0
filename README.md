@@ -41,6 +41,10 @@
 </div>
 <br>
 
+<img width="1000" height="500" alt="Screenshot 2026-09-14 120408" src="https://github.com/user-attachments/assets/5f112836-6a7c-4b44-a95d-990a3ce81e23" />
+
+<br>
+
 `Building` → Emephyst
 <br>
 `Studying` → Stacking hobbies & skills
