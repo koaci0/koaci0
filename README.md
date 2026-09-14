@@ -53,6 +53,21 @@
 
 <br>
 
+
+| Pyramid            |
+
+| Studies            |
+
+| Islam              |
+
+| Potential          |
+
+| Art of being alone |
+
+| Insyirah's dad      |
+
+---
+
 Grind Coins ⛀ = `1`
 
 ---
