@@ -53,6 +53,7 @@
 
 <br>
 
+<div align="center">
 
 | Pyramid            |
 
@@ -60,11 +61,15 @@
 
 | Islam              |
 
+| Ambition              |
+
 | Potential          |
 
 | Art of being alone |
 
 | Insyirah's dad      |
+
+</div>
 
 ---
 
