@@ -93,7 +93,7 @@ A vivid biography tracing Alexander's rise from Macedonian prince to one of hist
 
 <div align="center">
 
-*"HE WILL GIFT THE ONE HE CHOSE WHEN YOU'RE THE RIGHT PERSON TO RECEIVE HER"*
+*"He will gift the one he chose when you're the right person to recieve her"*
 
 <sub>
 
