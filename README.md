@@ -53,6 +53,8 @@
 
 <br>
 
+Grind Coins ⛀ = `1`
+
 ---
 
 <br>
